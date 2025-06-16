@@ -60,3 +60,9 @@ scrape_book(url)
 # git add .
 # git commit -m "Your message"
 #copy paste git code from github
+
+
+#Change the code
+# 1. git add .
+# 2. git commit -m "Your Message"
+# 3. git push
